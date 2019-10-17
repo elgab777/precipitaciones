@@ -1,5 +1,21 @@
 # precipitaciones
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import xlrd
 from arrays import Array3D
 
